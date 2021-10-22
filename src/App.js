@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import Recipe  from './Recipe';
+import Recipe  from './Components/Recipe/Recipe';
 import './App.css';
 
 const APP_ID = process.env.REACT_APP_ID;

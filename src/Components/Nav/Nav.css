@@ -1,0 +1,15 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: lightblue;
+  color: white;
+}
+nav ul {
+  list-style: none;
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
